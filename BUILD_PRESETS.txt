@@ -1,0 +1,16 @@
+Arras bot build presets added in v20
+
+Siege Healer
+- tank: healer
+- alias: siegehealer
+- stats: 0/12/0/0/0/0/12/12/3/3
+- Intended as a survivability/support-oriented siege preset.
+
+Pursuer Ram
+- tank: pursuer
+- stats: 12/12/0/0/0/0/0/12/3/3
+- Intended as a body-contact/ram-oriented preset.
+
+Proxy
+- The project intentionally leaves proxy configuration in lightning-proxies.txt / environment variables unchanged.
+- Update the proxy manually before launching.
